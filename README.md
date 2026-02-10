@@ -1,4 +1,4 @@
-![logo](
+![logo] (https://github.com/Bhavya101-Y/Bhavya101-Y/blob/https/github.com/Bhavya101-Y/-Prasunet_WD_01/ChatGPT%20Image%20Feb%2010%2C%202026%2C%2007_13_49%20PM.png)
 <h1 align="center">Hi 👋, I'm Bhavya</h1>
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
 
