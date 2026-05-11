@@ -39,7 +39,7 @@ Secure Backend APIs
 Responsive UI
 JavaScript Logic Building
 
-📌 HierHeaven – AI Job Portal (Microservices)
+📌 HireHeaven – AI Job Portal (Microservices)
 Built a microservices-based job portal system
 Integrated authentication, job posting, and AI-based features
 Focused on scalable backend architecture
