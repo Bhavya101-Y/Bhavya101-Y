@@ -47,6 +47,14 @@ Focused on scalable backend architecture
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Bhavya101-Y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏅 Achievements :
+💻 Solved 200+ DSA Problems
+🚀 Built Multiple Full Stack Projects
+🌟 Open Source Enthusiast
+🔥 MERN Stack Developer
+⚡ Learning DevOps & Scalable Systems
+
+
 ## 🏆 Goals :
 
 Become Full Stack + DevOps Engineer
