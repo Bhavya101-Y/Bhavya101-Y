@@ -49,9 +49,13 @@ Focused on scalable backend architecture
 
 ## 🏅 Achievements :
 💻 Solved 200+ DSA Problems
+
 🚀 Built Multiple Full Stack Projects
+
 🌟 Open Source Enthusiast
+
 🔥 MERN Stack Developer
+
 ⚡ Learning DevOps & Scalable Systems
 
 
