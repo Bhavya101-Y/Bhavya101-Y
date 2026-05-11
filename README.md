@@ -36,16 +36,17 @@ Secure Backend APIs
 Responsive UI
 JavaScript Logic Building
 
-##🏆 Goals
-Become Full Stack + DevOps Engineer
-Contribute to Open Source
-Build scalable AI-based applications
 
-⭐ “Code. Learn. Build. Repeat.”
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhavya101-Y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+##🏆 Goals
+-Become Full Stack + DevOps Engineer
+-Contribute to Open Source
+-Build scalable AI-based applications
+
+⭐ “Code. Learn. Build. Repeat.”
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
