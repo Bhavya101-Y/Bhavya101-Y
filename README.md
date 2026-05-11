@@ -39,6 +39,11 @@ Secure Backend APIs
 Responsive UI
 JavaScript Logic Building
 
+📌 HierHeaven – AI Job Portal (Microservices)
+Built a microservices-based job portal system
+Integrated authentication, job posting, and AI-based features
+Focused on scalable backend architecture
+
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Bhavya101-Y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -50,6 +55,6 @@ Contribute to Open Source
 
 Build scalable AI-based applications
 
-⭐ “Code. Learn. Build. Repeat.”
+## ⭐ “Code. Learn. Build. Repeat.”
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
